@@ -1,0 +1,23 @@
+nodes = {
+    'ResNet18': 512,
+    'ResNet34': 512,
+    'ResNet50': 2048,
+    'ResNet101': 2048,
+    'ResNet152': 2048,
+    'AlexNet': 9216,
+    'VGG11': 25088,
+    'VGG13': 25088,
+    'VGG16': 25088,
+    'VGG19': 25088,
+    'DenseNet121': 1024,
+    'DenseNet161': 2208,
+    'DenseNet169': 1664,
+    'DenseNet201': 1920,
+    'InceptionV3': 2048,
+    'GoogLeNet': 1024,
+    'MobileNetV2': 1280,
+    'MobileNetV3': 960,
+    'WideResNet50-2': 2048,
+    'WideResNet101-2': 2048,
+    'ShuffleNetV2': 1024
+}
